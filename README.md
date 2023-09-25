@@ -23,7 +23,7 @@ Balance: The current balance in the account.
 Account Number: A unique account number assigned to each account.
 Users can perform the following banking operations:
 Deposit money into their account.
-Withdraw money from their account (subject to balance and withdrawal limits).
+Withdraw money from their account.
 View their account balance.
-Transfer money to another account (subject to balance and transfer limits).
+Transfer money to another account .
 The Bank class keeps track of the total number of accounts and the total balance across all accounts using class-level attributes.
