@@ -1,4 +1,4 @@
-The Command-Line Banking System is a simple Python program that emulates the functionality of a basic banking system. It allows users to create bank accounts, log in securely, and perform various banking transactions. The project consists of two main classes: User and Bank.
+ Banking System is a simple Python program that emulates the functionality of a basic banking system. It allows users to create bank accounts, log in securely, and perform various banking transactions. The project consists of two main classes: User and Bank.
 
 1. User Class:
 
