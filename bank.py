@@ -18,7 +18,7 @@ class User():
         print(f"Name: {self.name}\nGender: {self.gender}\nSalary: {self.salary}")
         print("Account No:", self.account)
 
-# Define a Bank class to represent bank account objects.
+# Define a Bank class to represent bank account .
 class Bank():
     # Class-level variables for bank name, balance, and user count.
     __balance = 0
